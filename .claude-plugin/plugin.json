@@ -1,0 +1,17 @@
+{
+  "name": "rdd-skills",
+  "version": "0.1.0",
+  "description": "Приёмы исследования. Каждый скилл пишет артефакт в .rdd/.",
+  "author": {
+    "name": "RDD"
+  },
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "skills",
+    "five-whys"
+  ],
+  "skills": [
+    "./skills/five-whys"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "rdd-skills",
+  "owner": {
+    "name": "RDD"
+  },
+  "description": "Приёмы исследования. Каждый скилл пишет артефакт в .rdd/.",
+  "plugins": [
+    {
+      "name": "rdd-skills",
+      "source": "./",
+      "description": "Приёмы исследования. Каждый скилл пишет артефакт в .rdd/.",
+      "category": "research",
+      "keywords": [
+        "research",
+        "five-whys"
+      ]
+    }
+  ]
+}

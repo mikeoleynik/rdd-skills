@@ -1,0 +1,5 @@
+interface:
+  display_name: "Пять почему"
+  short_description: "Цепочка причин в .rdd/"
+policy:
+  allow_implicit_invocation: false
