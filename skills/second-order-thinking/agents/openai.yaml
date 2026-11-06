@@ -1,0 +1,5 @@
+interface:
+  display_name: "Мышление второго порядка"
+  short_description: "Следствия решения в .rdd/"
+policy:
+  allow_implicit_invocation: false
