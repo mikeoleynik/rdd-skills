@@ -1,0 +1,5 @@
+interface:
+  display_name: "Матрица влияние/усилие"
+  short_description: "Влияние и усилие в .rdd/"
+policy:
+  allow_implicit_invocation: false
