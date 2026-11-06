@@ -1,0 +1,5 @@
+interface:
+  display_name: "Point of View"
+  short_description: "Формулировка проблемы в .rdd/"
+policy:
+  allow_implicit_invocation: false
