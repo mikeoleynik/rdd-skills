@@ -41,7 +41,13 @@
     "connection-circles",
     "concept-map",
     "balancing-feedback-loop",
-    "reinforcing-feedback-loop"
+    "reinforcing-feedback-loop",
+    "bisociation",
+    "plus-minus-interesting",
+    "principle-extraction",
+    "focus-on-difference",
+    "conceptual-blending",
+    "platonic-forms"
   ],
   "skills": [
     "./skills/five-whys",
@@ -76,6 +82,12 @@
     "./skills/connection-circles",
     "./skills/concept-map",
     "./skills/balancing-feedback-loop",
-    "./skills/reinforcing-feedback-loop"
+    "./skills/reinforcing-feedback-loop",
+    "./skills/bisociation",
+    "./skills/plus-minus-interesting",
+    "./skills/principle-extraction",
+    "./skills/focus-on-difference",
+    "./skills/conceptual-blending",
+    "./skills/platonic-forms"
   ]
 }

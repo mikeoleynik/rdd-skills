@@ -121,6 +121,12 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | [Карта понятий](skills/concept-map/SKILL.md) | Как понятия этой темы связаны между собой? |
 | [Уравновешивающая петля обратной связи](skills/balancing-feedback-loop/SKILL.md) | Что возвращает систему к цели, когда она от неё уходит? |
 | [Усиливающая петля обратной связи](skills/reinforcing-feedback-loop/SKILL.md) | Что усиливает само себя от цикла к циклу? |
+| [Бисоциация](skills/bisociation/SKILL.md) | Что нового появится, если посмотреть на это двумя разными логиками? |
+| [Плюс, минус, интересно](skills/plus-minus-interesting/SKILL.md) | Идею пока нельзя ни принять, ни отвергнуть? |
+| [Извлечение принципа](skills/principle-extraction/SKILL.md) | Что здесь работает независимо от того, как это сделано? |
+| [Фокусирование на различии](skills/focus-on-difference/SKILL.md) | Два похожих случая расходятся, и мы считаем это мелочью? |
+| [Концептуальное смешение](skills/conceptual-blending/SKILL.md) | Что появится, если смешать две концепции в одну? |
+| [Формы Платона](skills/platonic-forms/SKILL.md) | Что останется, если убрать все случайные черты этих вещей? |
 
 ## Скиллы
 
@@ -159,5 +165,11 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | `/concept-map` | `.rdd/concept-map/<понятие>.md` — вопрос фокуса, сущности от общего к частному и связи, которые читаются фразой |
 | `/balancing-feedback-loop` | `.rdd/balancing-feedback-loop/<петля>.md` — цель, фактический уровень, разрыв и корректирующее действие, которое возвращает уровень к цели |
 | `/reinforcing-feedback-loop` | `.rdd/reinforcing-feedback-loop/<петля>.md` — переменные, которые усиливают друг друга, выход цикла как вход следующего и внешнее влияние |
+| `/bisociation` | `.rdd/bisociation/<проблема>.md` — две матрицы мышления, пересечение механизмов и идея, которой не было ни в одной |
+| `/plus-minus-interesting` | `.rdd/plus-minus-interesting/<предмет>.md` — плюсы, минусы и интересные следствия одного объекта и вывод |
+| `/principle-extraction` | `.rdd/principle-extraction/<решение>.md` — механизм решения, принцип без исходной реализации и перенос в два контекста |
+| `/focus-on-difference` | `.rdd/focus-on-difference/<пара>.md` — общее двух объектов, фокусное различие, усиление, инверсия и гипотеза |
+| `/conceptual-blending` | `.rdd/conceptual-blending/<задача>.md` — два входных пространства, родовое пространство, смешение и свойство, которого не было ни в одном |
+| `/platonic-forms` | `.rdd/platonic-forms/<область>.md` — формы за воплощениями, что в них неизменно, и пара для следующего хода |
 
 Каталог `.rdd/` появляется при первой записи. Его коммитят вместе с репозиторием: следующее решение читает записанное свидетельство.
