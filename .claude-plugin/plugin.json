@@ -9,9 +9,19 @@
   "keywords": [
     "research",
     "skills",
-    "five-whys"
+    "five-whys",
+    "morphological-analysis",
+    "one-pager-hypothesis",
+    "fail-fast-checklist",
+    "ishikawa-diagram",
+    "abstraction-laddering"
   ],
   "skills": [
-    "./skills/five-whys"
+    "./skills/five-whys",
+    "./skills/morphological-analysis",
+    "./skills/one-pager-hypothesis",
+    "./skills/fail-fast-checklist",
+    "./skills/ishikawa-diagram",
+    "./skills/abstraction-laddering"
   ]
 }

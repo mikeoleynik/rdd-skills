@@ -1,0 +1,5 @@
+interface:
+  display_name: "Abstraction Laddering"
+  short_description: "Лестница формулировки в .rdd/"
+policy:
+  allow_implicit_invocation: false
