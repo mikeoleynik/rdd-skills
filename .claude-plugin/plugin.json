@@ -18,7 +18,12 @@
     "conflict-resolution-diagram",
     "productive-thinking-model",
     "inversion",
-    "point-of-view"
+    "point-of-view",
+    "issue-trees",
+    "first-principles",
+    "ideal-final-result",
+    "six-thinking-hats",
+    "how-now-wow"
   ],
   "skills": [
     "./skills/five-whys",
@@ -30,6 +35,11 @@
     "./skills/conflict-resolution-diagram",
     "./skills/productive-thinking-model",
     "./skills/inversion",
-    "./skills/point-of-view"
+    "./skills/point-of-view",
+    "./skills/issue-trees",
+    "./skills/first-principles",
+    "./skills/ideal-final-result",
+    "./skills/six-thinking-hats",
+    "./skills/how-now-wow"
   ]
 }

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Первые принципы"
+  short_description: "Основания и решение в .rdd/"
+policy:
+  allow_implicit_invocation: false
