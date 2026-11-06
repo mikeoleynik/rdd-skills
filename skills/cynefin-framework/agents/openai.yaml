@@ -1,0 +1,5 @@
+interface:
+  display_name: "Фреймворк Cynefin"
+  short_description: "Домен ситуации в .rdd/"
+policy:
+  allow_implicit_invocation: false
