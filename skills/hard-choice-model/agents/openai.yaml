@@ -1,0 +1,5 @@
+interface:
+  display_name: "Модель трудного выбора"
+  short_description: "Тип решения в .rdd/"
+policy:
+  allow_implicit_invocation: false
