@@ -1,0 +1,5 @@
+interface:
+  display_name: "Дизайн эксперимента"
+  short_description: "План эксперимента в .rdd/"
+policy:
+  allow_implicit_invocation: false
