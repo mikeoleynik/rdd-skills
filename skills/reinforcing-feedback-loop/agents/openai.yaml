@@ -1,0 +1,5 @@
+interface:
+  display_name: "Усиливающая петля"
+  short_description: "Усиление цикла в .rdd/"
+policy:
+  allow_implicit_invocation: false
