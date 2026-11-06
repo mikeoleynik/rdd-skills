@@ -33,7 +33,12 @@
     "ladder-of-inference",
     "hard-choice-model",
     "rice",
-    "elimination-method"
+    "elimination-method",
+    "ooda-loop",
+    "cynefin-framework",
+    "confidence-determines-speed-vs-quality",
+    "iceberg-model",
+    "connection-circles"
   ],
   "skills": [
     "./skills/five-whys",
@@ -60,6 +65,11 @@
     "./skills/ladder-of-inference",
     "./skills/hard-choice-model",
     "./skills/rice",
-    "./skills/elimination-method"
+    "./skills/elimination-method",
+    "./skills/ooda-loop",
+    "./skills/cynefin-framework",
+    "./skills/confidence-determines-speed-vs-quality",
+    "./skills/iceberg-model",
+    "./skills/connection-circles"
   ]
 }

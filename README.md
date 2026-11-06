@@ -113,5 +113,10 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | `/hard-choice-model` | `.rdd/hard-choice-model/<решение>.md` — тип решения по влиянию исхода и сравнимости вариантов и подход этого типа |
 | `/rice` | `.rdd/rice/<набор>.md` — Reach, Impact, Confidence, Effort, балл и порядок инициатив |
 | `/elimination-method` | `.rdd/elimination-method/<предмет>.md` — исключённый элемент, последствия и другой способ получить его результат |
+| `/ooda-loop` | `.rdd/ooda-loop/<ситуация>.md` — круг наблюдения, ориентировки, решения-гипотезы и действия; следующий круг начинается с обратной связи |
+| `/cynefin-framework` | `.rdd/cynefin-framework/<ситуация>.md` — домен ситуации (простой, запутанный, сложный, хаотичный, замешательство) и подход этого домена |
+| `/confidence-determines-speed-vs-quality` | `.rdd/confidence-determines-speed-vs-quality/<проблема>.md` — уверенность в важности проблемы и в решении; фокус на скорости, на качестве или на обоих |
+| `/iceberg-model` | `.rdd/iceberg-model/<событие>.md` — событие, паттерны во времени, структуры и ментальные модели |
+| `/connection-circles` | `.rdd/connection-circles/<система>.md` — до десяти элементов, стрелки прямых причин со знаком и замкнутые петли |
 
 Каталог `.rdd/` появляется при первой записи. Его коммитят вместе с репозиторием: следующее решение читает записанное свидетельство.

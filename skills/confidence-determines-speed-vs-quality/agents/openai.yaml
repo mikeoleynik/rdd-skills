@@ -1,0 +1,5 @@
+interface:
+  display_name: "Скорость или качество"
+  short_description: "Фокус по уверенности в .rdd/"
+policy:
+  allow_implicit_invocation: false
