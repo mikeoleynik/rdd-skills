@@ -1,0 +1,5 @@
+interface:
+  display_name: "Inversion"
+  short_description: "Инверсия в .rdd/"
+policy:
+  allow_implicit_invocation: false
