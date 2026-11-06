@@ -1,0 +1,5 @@
+interface:
+  display_name: "Идеальный конечный результат"
+  short_description: "ИКР в .rdd/"
+policy:
+  allow_implicit_invocation: false
