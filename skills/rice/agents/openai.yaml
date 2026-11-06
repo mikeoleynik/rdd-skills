@@ -1,0 +1,5 @@
+interface:
+  display_name: "RICE"
+  short_description: "Балл RICE в .rdd/"
+policy:
+  allow_implicit_invocation: false
