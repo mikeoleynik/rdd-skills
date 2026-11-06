@@ -1,0 +1,5 @@
+interface:
+  display_name: "Матрица Эйзенхауэра"
+  short_description: "Срочное и важное в .rdd/"
+policy:
+  allow_implicit_invocation: false
