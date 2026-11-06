@@ -1,0 +1,5 @@
+interface:
+  display_name: "One-pager Hypothesis"
+  short_description: "Одна гипотеза в .rdd/"
+policy:
+  allow_implicit_invocation: false
