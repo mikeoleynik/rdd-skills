@@ -23,7 +23,12 @@
     "first-principles",
     "ideal-final-result",
     "six-thinking-hats",
-    "how-now-wow"
+    "how-now-wow",
+    "eisenhower-matrix",
+    "second-order-thinking",
+    "decision-matrix",
+    "design-of-experiment",
+    "moscow"
   ],
   "skills": [
     "./skills/five-whys",
@@ -40,6 +45,11 @@
     "./skills/first-principles",
     "./skills/ideal-final-result",
     "./skills/six-thinking-hats",
-    "./skills/how-now-wow"
+    "./skills/how-now-wow",
+    "./skills/eisenhower-matrix",
+    "./skills/second-order-thinking",
+    "./skills/decision-matrix",
+    "./skills/design-of-experiment",
+    "./skills/moscow"
   ]
 }
