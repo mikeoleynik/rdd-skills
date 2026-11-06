@@ -118,5 +118,8 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | `/confidence-determines-speed-vs-quality` | `.rdd/confidence-determines-speed-vs-quality/<проблема>.md` — уверенность в важности проблемы и в решении; фокус на скорости, на качестве или на обоих |
 | `/iceberg-model` | `.rdd/iceberg-model/<событие>.md` — событие, паттерны во времени, структуры и ментальные модели |
 | `/connection-circles` | `.rdd/connection-circles/<система>.md` — до десяти элементов, стрелки прямых причин со знаком и замкнутые петли |
+| `/concept-map` | `.rdd/concept-map/<понятие>.md` — вопрос фокуса, сущности от общего к частному и связи, которые читаются фразой |
+| `/balancing-feedback-loop` | `.rdd/balancing-feedback-loop/<петля>.md` — цель, фактический уровень, разрыв и корректирующее действие, которое возвращает уровень к цели |
+| `/reinforcing-feedback-loop` | `.rdd/reinforcing-feedback-loop/<петля>.md` — переменные, которые усиливают друг друга, выход цикла как вход следующего и внешнее влияние |
 
 Каталог `.rdd/` появляется при первой записи. Его коммитят вместе с репозиторием: следующее решение читает записанное свидетельство.

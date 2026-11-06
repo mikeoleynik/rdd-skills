@@ -1,0 +1,5 @@
+interface:
+  display_name: "Уравновешивающая петля"
+  short_description: "Цель и разрыв в .rdd/"
+policy:
+  allow_implicit_invocation: false

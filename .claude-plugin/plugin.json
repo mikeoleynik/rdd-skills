@@ -38,7 +38,10 @@
     "cynefin-framework",
     "confidence-determines-speed-vs-quality",
     "iceberg-model",
-    "connection-circles"
+    "connection-circles",
+    "concept-map",
+    "balancing-feedback-loop",
+    "reinforcing-feedback-loop"
   ],
   "skills": [
     "./skills/five-whys",
@@ -70,6 +73,9 @@
     "./skills/cynefin-framework",
     "./skills/confidence-determines-speed-vs-quality",
     "./skills/iceberg-model",
-    "./skills/connection-circles"
+    "./skills/connection-circles",
+    "./skills/concept-map",
+    "./skills/balancing-feedback-loop",
+    "./skills/reinforcing-feedback-loop"
   ]
 }
