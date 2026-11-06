@@ -84,6 +84,44 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 
 Повтор команды обновляет файлы.
 
+## Когда какой
+
+| Фреймворк | Когда применять |
+| --- | --- |
+| [Пять почему](skills/five-whys/SKILL.md) | Какая причина стоит за этим проявлением? |
+| [Zwicky box](skills/zwicky-box/SKILL.md) | Какие сочетания параметров мы ещё не смотрели? |
+| [One-pager Hypothesis](skills/one-pager-hypothesis/SKILL.md) | Какое предположение мы можем проверить? |
+| [Fail-fast Checklist](skills/fail-fast-checklist/SKILL.md) | Чему мы научились, если предположение оказалось неверным? |
+| [Ishikawa Diagram](skills/ishikawa-diagram/SKILL.md) | Какие причины могли дать этот эффект? |
+| [Abstraction Laddering](skills/abstraction-laddering/SKILL.md) | Формулировка слишком узкая или слишком общая? |
+| [Conflict Resolution Diagram](skills/conflict-resolution-diagram/SKILL.md) | Две стороны тянут в разные стороны, и обе нужны? |
+| [Productive Thinking Model](skills/productive-thinking-model/SKILL.md) | Как пройти от ситуации к решению и плану? |
+| [Inversion](skills/inversion/SKILL.md) | Как гарантированно сделать хуже, и что из этого следует? |
+| [Point of View](skills/point-of-view/SKILL.md) | Чью проблему мы решаем и почему? |
+| [Деревья вопросов](skills/issue-trees/SKILL.md) | Проблему надо разложить: почему так или как это сделать? |
+| [Первые принципы](skills/first-principles/SKILL.md) | Мы держимся за привычный способ вместо того, что действительно верно? |
+| [Идеальный конечный результат](skills/ideal-final-result/SKILL.md) | Какое состояние системы было бы идеальным? |
+| [Шесть шляп](skills/six-thinking-hats/SKILL.md) | Нужно посмотреть на одно решение с разных сторон? |
+| [How / Now / Wow](skills/how-now-wow/SKILL.md) | Какие идеи оригинальны и насколько легко их реализовать? |
+| [Матрица Эйзенхауэра](skills/eisenhower-matrix/SKILL.md) | Что сделать сейчас, что запланировать, а что не делать? |
+| [Мышление второго порядка](skills/second-order-thinking/SKILL.md) | Что будет после первого следствия решения? |
+| [Матрица решений](skills/decision-matrix/SKILL.md) | Какой вариант сильнее, если у каждого свои плюсы? |
+| [Дизайн эксперимента](skills/design-of-experiment/SKILL.md) | Как проверить один вопрос, не смешав факторы? |
+| [MoSCoW](skills/moscow/SKILL.md) | Насколько необходим каждый элемент для достижения цели? |
+| [Матрица влияние/усилие](skills/impact-effort-matrix/SKILL.md) | Где большой эффект при малом усилии? |
+| [Лестница умозаключений](skills/ladder-of-inference/SKILL.md) | На каких данных стоит этот вывод? |
+| [Модель трудного выбора](skills/hard-choice-model/SKILL.md) | Варианты трудно сравнить, и цена ошибки высока? |
+| [RICE](skills/rice/SKILL.md) | Что даст больше эффекта относительно затрат? |
+| [Метод исключения](skills/elimination-method/SKILL.md) | Что будет, если убрать привычный элемент? |
+| [Цикл OODA](skills/ooda-loop/SKILL.md) | Ситуация меняется, и решение надо обновлять по ходу? |
+| [Cynefin](skills/cynefin-framework/SKILL.md) | Какой это тип ситуации и какой подход ей подходит? |
+| [Уверенность задаёт скорость или качество](skills/confidence-determines-speed-vs-quality/SKILL.md) | Гнать скорость или держать качество? |
+| [Модель айсберга](skills/iceberg-model/SKILL.md) | Мы видим событие, но не то, что его держит? |
+| [Круги связей](skills/connection-circles/SKILL.md) | Как элементы системы влияют друг на друга? |
+| [Карта понятий](skills/concept-map/SKILL.md) | Как понятия этой темы связаны между собой? |
+| [Уравновешивающая петля обратной связи](skills/balancing-feedback-loop/SKILL.md) | Что возвращает систему к цели, когда она от неё уходит? |
+| [Усиливающая петля обратной связи](skills/reinforcing-feedback-loop/SKILL.md) | Что усиливает само себя от цикла к циклу? |
+
 ## Скиллы
 
 | Команда | Что пишет |
