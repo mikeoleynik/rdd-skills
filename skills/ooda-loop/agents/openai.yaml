@@ -1,0 +1,5 @@
+interface:
+  display_name: "Цикл OODA"
+  short_description: "Круг решения в .rdd/"
+policy:
+  allow_implicit_invocation: false
