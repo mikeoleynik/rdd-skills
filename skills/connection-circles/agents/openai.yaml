@@ -1,0 +1,5 @@
+interface:
+  display_name: "Круги связей"
+  short_description: "Связи и петли в .rdd/"
+policy:
+  allow_implicit_invocation: false
