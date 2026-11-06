@@ -1,0 +1,5 @@
+interface:
+  display_name: "Матрица How / Now / Wow"
+  short_description: "Now, Wow и How в .rdd/"
+policy:
+  allow_implicit_invocation: false
