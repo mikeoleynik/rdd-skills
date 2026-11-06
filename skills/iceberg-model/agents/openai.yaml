@@ -1,0 +1,5 @@
+interface:
+  display_name: "Модель айсберга"
+  short_description: "Уровни события в .rdd/"
+policy:
+  allow_implicit_invocation: false
