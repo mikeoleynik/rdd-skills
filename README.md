@@ -108,5 +108,10 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | `/decision-matrix` | `.rdd/decision-matrix/<решение>.md` — баллы вариантов по факторам, веса и вариант с наибольшей суммой |
 | `/design-of-experiment` | `.rdd/design-of-experiment/<эксперимент>.md` — план эксперимента под один вопрос: факторы, дизайн, метрики и допустимый вывод |
 | `/moscow` | `.rdd/moscow/<набор>.md` — элементы по необходимости для одной цели: Must, Should, Could и Won't Have |
+| `/impact-effort-matrix` | `.rdd/impact-effort-matrix/<набор>.md` — задачи по влиянию и усилию: Quick Wins, Major Projects, Fill-ins и Thankless Tasks |
+| `/ladder-of-inference` | `.rdd/ladder-of-inference/<вывод>.md` — ступень вывода, спуск по вопросам к данным и сбор рассуждения вверх |
+| `/hard-choice-model` | `.rdd/hard-choice-model/<решение>.md` — тип решения по влиянию исхода и сравнимости вариантов и подход этого типа |
+| `/rice` | `.rdd/rice/<набор>.md` — Reach, Impact, Confidence, Effort, балл и порядок инициатив |
+| `/elimination-method` | `.rdd/elimination-method/<предмет>.md` — исключённый элемент, последствия и другой способ получить его результат |
 
 Каталог `.rdd/` появляется при первой записи. Его коммитят вместе с репозиторием: следующее решение читает записанное свидетельство.

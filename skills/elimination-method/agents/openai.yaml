@@ -1,0 +1,5 @@
+interface:
+  display_name: "Метод исключения"
+  short_description: "Исключение элемента в .rdd/"
+policy:
+  allow_implicit_invocation: false

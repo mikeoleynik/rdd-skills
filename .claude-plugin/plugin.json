@@ -28,7 +28,12 @@
     "second-order-thinking",
     "decision-matrix",
     "design-of-experiment",
-    "moscow"
+    "moscow",
+    "impact-effort-matrix",
+    "ladder-of-inference",
+    "hard-choice-model",
+    "rice",
+    "elimination-method"
   ],
   "skills": [
     "./skills/five-whys",
@@ -50,6 +55,11 @@
     "./skills/second-order-thinking",
     "./skills/decision-matrix",
     "./skills/design-of-experiment",
-    "./skills/moscow"
+    "./skills/moscow",
+    "./skills/impact-effort-matrix",
+    "./skills/ladder-of-inference",
+    "./skills/hard-choice-model",
+    "./skills/rice",
+    "./skills/elimination-method"
   ]
 }
