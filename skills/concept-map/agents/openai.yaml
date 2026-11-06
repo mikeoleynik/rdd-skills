@@ -1,0 +1,5 @@
+interface:
+  display_name: "Карта понятий"
+  short_description: "Понятия и связи в .rdd/"
+policy:
+  allow_implicit_invocation: false
