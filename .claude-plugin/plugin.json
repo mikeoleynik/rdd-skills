@@ -10,18 +10,26 @@
     "research",
     "skills",
     "five-whys",
-    "morphological-analysis",
+    "zwicky-box",
     "one-pager-hypothesis",
     "fail-fast-checklist",
     "ishikawa-diagram",
-    "abstraction-laddering"
+    "abstraction-laddering",
+    "conflict-resolution-diagram",
+    "productive-thinking-model",
+    "inversion",
+    "point-of-view"
   ],
   "skills": [
     "./skills/five-whys",
-    "./skills/morphological-analysis",
+    "./skills/zwicky-box",
     "./skills/one-pager-hypothesis",
     "./skills/fail-fast-checklist",
     "./skills/ishikawa-diagram",
-    "./skills/abstraction-laddering"
+    "./skills/abstraction-laddering",
+    "./skills/conflict-resolution-diagram",
+    "./skills/productive-thinking-model",
+    "./skills/inversion",
+    "./skills/point-of-view"
   ]
 }
