@@ -1,0 +1,5 @@
+interface:
+  display_name: "Лестница умозаключений"
+  short_description: "Спуск к данным в .rdd/"
+policy:
+  allow_implicit_invocation: false
