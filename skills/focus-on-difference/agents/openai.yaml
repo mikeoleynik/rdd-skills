@@ -1,0 +1,5 @@
+interface:
+  display_name: "Фокусирование на различии"
+  short_description: "Различие пары в .rdd/"
+policy:
+  allow_implicit_invocation: false
