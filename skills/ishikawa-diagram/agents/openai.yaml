@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ishikawa Diagram"
+  short_description: "Диаграмма причин в .rdd/"
+policy:
+  allow_implicit_invocation: false
