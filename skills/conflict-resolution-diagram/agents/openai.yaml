@@ -1,0 +1,5 @@
+interface:
+  display_name: "Conflict Resolution Diagram"
+  short_description: "Грозовая туча в .rdd/"
+policy:
+  allow_implicit_invocation: false
