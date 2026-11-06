@@ -1,0 +1,5 @@
+interface:
+  display_name: "Шесть шляп"
+  short_description: "Шесть линз в .rdd/"
+policy:
+  allow_implicit_invocation: false
