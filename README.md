@@ -88,6 +88,18 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 
 Как фазы и подэтапы устроены — в [этапах](docs/stages.md).
 
+### Фаза 0. Что уже известно
+
+| Фреймворк | Когда применять | Откуда |
+| --- | --- | --- |
+| [Карта понятий](skills/concept-map/SKILL.md) | Как понятия этой темы связаны между собой? | Systems thinking |
+
+### 1.1 Исследовать пространство
+
+| Фреймворк | Когда применять | Откуда |
+| --- | --- | --- |
+| [Карта понятий](skills/concept-map/SKILL.md) | Как понятия этой темы связаны между собой? | Systems thinking |
+
 ### 1.2 Сформулировать проблему
 
 | Фреймворк | Когда применять | Откуда |
@@ -96,6 +108,13 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | [Идеальный конечный результат](skills/ideal-final-result/SKILL.md) | Какое состояние системы было бы идеальным? | ТРИЗ |
 | [Пять почему](skills/five-whys/SKILL.md) | Какая причина стоит за этим проявлением? | Самостоятельные методики |
 | [Формы Платона](skills/platonic-forms/SKILL.md) | Что останется, если убрать все случайные черты этих вещей? | |
+| [Модель айсберга](skills/iceberg-model/SKILL.md) | Мы видим событие, но не то, что его держит? | Systems thinking |
+| [Круги связей](skills/connection-circles/SKILL.md) | Как элементы системы влияют друг на друга? | Systems thinking |
+| [Уравновешивающая петля обратной связи](skills/balancing-feedback-loop/SKILL.md) | Что возвращает систему к цели, когда она от неё уходит? | Systems thinking |
+| [Усиливающая петля обратной связи](skills/reinforcing-feedback-loop/SKILL.md) | Что усиливает само себя от цикла к циклу? | Systems thinking |
+| [Ishikawa Diagram](skills/ishikawa-diagram/SKILL.md) | Какие причины могли дать этот эффект? | Problem solving |
+| [Abstraction Laddering](skills/abstraction-laddering/SKILL.md) | Формулировка слишком узкая или слишком общая? | Problem solving |
+| [Деревья вопросов](skills/issue-trees/SKILL.md) | Проблему надо разложить: почему так или как это сделать? | Problem solving |
 
 ### 1.3 Сгенерировать гипотезы
 
@@ -107,6 +126,7 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | [Zwicky box](skills/zwicky-box/SKILL.md) | Какие сочетания параметров мы ещё не смотрели? | Problem solving |
 | [Бисоциация](skills/bisociation/SKILL.md) | Что нового появится, если посмотреть на это двумя разными логиками? | |
 | [Концептуальное смешение](skills/conceptual-blending/SKILL.md) | Что появится, если смешать две концепции в одну? | |
+| [Первые принципы](skills/first-principles/SKILL.md) | Мы держимся за привычный способ вместо того, что действительно верно? | Problem solving |
 
 ### 1.4 Выбрать и сформулировать гипотезу
 
@@ -117,6 +137,9 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | [MoSCoW](skills/moscow/SKILL.md) | Насколько необходим каждый элемент для достижения цели? | Самостоятельные методики |
 | [RICE](skills/rice/SKILL.md) | Что даст больше эффекта относительно затрат? | Самостоятельные методики |
 | [One-pager Hypothesis](skills/one-pager-hypothesis/SKILL.md) | Какое предположение мы можем проверить? | |
+| [Шесть шляп](skills/six-thinking-hats/SKILL.md) | Нужно посмотреть на одно решение с разных сторон? | Decision making |
+| [Матрица решений](skills/decision-matrix/SKILL.md) | Какой вариант сильнее, если у каждого свои плюсы? | Decision making |
+| [Матрица влияние/усилие](skills/impact-effort-matrix/SKILL.md) | Где большой эффект при малом усилии? | Decision making |
 
 ### 2.1 Приземлить гипотезу
 
@@ -131,37 +154,35 @@ gemini skills install https://github.com/<owner>/rdd-skills.git --path skills
 | --- | --- | --- |
 | [Дизайн эксперимента](skills/design-of-experiment/SKILL.md) | Как проверить один вопрос, не смешав факторы? | |
 
+### 2.3 Интерпретировать результаты
+
+| Фреймворк | Когда применять | Откуда |
+| --- | --- | --- |
+| [Лестница умозаключений](skills/ladder-of-inference/SKILL.md) | На каких данных стоит этот вывод? | Decision making |
+
 ### Фаза 3. Принять решение
+
+Фаза ссылается на список 1.4. Матрица решений и матрица влияние/усилие остаются там. Уверенность в этой фазе связана с 2.2: от неё зависит, сколько вкладываться в проверку и в решение.
 
 | Фреймворк | Когда применять | Откуда |
 | --- | --- | --- |
 | [Fail-fast Checklist](skills/fail-fast-checklist/SKILL.md) | Чему мы научились, если предположение оказалось неверным? | |
 | [Плюс, минус, интересно](skills/plus-minus-interesting/SKILL.md) | Идею пока нельзя ни принять, ни отвергнуть? | Латеральное мышление |
+| [Мышление второго порядка](skills/second-order-thinking/SKILL.md) | Что будет после первого следствия решения? | Decision making |
+| [Модель трудного выбора](skills/hard-choice-model/SKILL.md) | Варианты трудно сравнить, и цена ошибки высока? | Decision making |
+| [Шесть шляп](skills/six-thinking-hats/SKILL.md) | Нужно посмотреть на одно решение с разных сторон? | Decision making |
+| [Уверенность задаёт скорость или качество](skills/confidence-determines-speed-vs-quality/SKILL.md) | Гнать скорость или держать качество? | Decision making |
 
-### Без этапа
+## Без этапа
+
+[Productive Thinking Model](skills/productive-thinking-model/SKILL.md) — полный процесс из шести вопросов: что происходит, что считать успехом, в чём вопрос, какие есть ответы, какое решение выковать и какие ресурсы согласовать. Это та же дуга, что у этапов RDD, пройденная другим маршрутом. Положить её в одну фазу нельзя.
+
+[Цикл OODA](skills/ooda-loop/SKILL.md) — повторяющийся контур: наблюдать, сориентироваться, решить, действовать. Это ритм возвратов. После фазы 3 ход снова идёт в 1.2 или 1.3, а не в отдельный инструмент одной фазы.
 
 | Фреймворк | Когда применять | Откуда |
 | --- | --- | --- |
-| [Модель айсберга](skills/iceberg-model/SKILL.md) | Мы видим событие, но не то, что его держит? | Systems thinking |
-| [Круги связей](skills/connection-circles/SKILL.md) | Как элементы системы влияют друг на друга? | Systems thinking |
-| [Карта понятий](skills/concept-map/SKILL.md) | Как понятия этой темы связаны между собой? | Systems thinking |
-| [Уравновешивающая петля обратной связи](skills/balancing-feedback-loop/SKILL.md) | Что возвращает систему к цели, когда она от неё уходит? | Systems thinking |
-| [Усиливающая петля обратной связи](skills/reinforcing-feedback-loop/SKILL.md) | Что усиливает само себя от цикла к циклу? | Systems thinking |
-| [Шесть шляп](skills/six-thinking-hats/SKILL.md) | Нужно посмотреть на одно решение с разных сторон? | Decision making |
 | [Матрица Эйзенхауэра](skills/eisenhower-matrix/SKILL.md) | Что сделать сейчас, что запланировать, а что не делать? | Decision making |
-| [Мышление второго порядка](skills/second-order-thinking/SKILL.md) | Что будет после первого следствия решения? | Decision making |
-| [Матрица решений](skills/decision-matrix/SKILL.md) | Какой вариант сильнее, если у каждого свои плюсы? | Decision making |
-| [Матрица влияние/усилие](skills/impact-effort-matrix/SKILL.md) | Где большой эффект при малом усилии? | Decision making |
-| [Лестница умозаключений](skills/ladder-of-inference/SKILL.md) | На каких данных стоит этот вывод? | Decision making |
-| [Модель трудного выбора](skills/hard-choice-model/SKILL.md) | Варианты трудно сравнить, и цена ошибки высока? | Decision making |
-| [Цикл OODA](skills/ooda-loop/SKILL.md) | Ситуация меняется, и решение надо обновлять по ходу? | Decision making |
 | [Cynefin](skills/cynefin-framework/SKILL.md) | Какой это тип ситуации и какой подход ей подходит? | Decision making |
-| [Уверенность задаёт скорость или качество](skills/confidence-determines-speed-vs-quality/SKILL.md) | Гнать скорость или держать качество? | Decision making |
-| [Ishikawa Diagram](skills/ishikawa-diagram/SKILL.md) | Какие причины могли дать этот эффект? | Problem solving |
-| [Abstraction Laddering](skills/abstraction-laddering/SKILL.md) | Формулировка слишком узкая или слишком общая? | Problem solving |
-| [Productive Thinking Model](skills/productive-thinking-model/SKILL.md) | Как пройти от ситуации к решению и плану? | Problem solving |
-| [Деревья вопросов](skills/issue-trees/SKILL.md) | Проблему надо разложить: почему так или как это сделать? | Problem solving |
-| [Первые принципы](skills/first-principles/SKILL.md) | Мы держимся за привычный способ вместо того, что действительно верно? | Problem solving |
 
 ## Скиллы
 
